@@ -4,9 +4,6 @@
 [![编程语言](https://img.shields.io/badge/Language-Java-blue.svg)](httpds://shields.io/)
 [![开源程度](https://img.shields.io/badge/Open%20Source-70%25-green.svg)](httpds://shields.io/)
 
-*   **代码仅针对我司产品，但集成现今主流的测试方法，为您提供一点小参考** 
-*   **如果本项目对您有一点点帮助，欢迎您能赏个Star⭐，支持我将项目持续维护和开源下去**
-
 #### 已实现功能点:
 *   基于TestNg+PageObject的UI功能测试
 *   基于ExtentReport的测试报告
